@@ -2,9 +2,9 @@ apiVersion: 1.0.0
 metadata:
   name: python-tjmk2
 projects:
-  - name: Hackathon20
+  - name: TestPython
     source:
-      location: 'https://github.com/DesCodificadxs/Hackathon20'
+      location: 'https://github.com/masmogio/testpython'
       type: git
       branch: main
 components:
