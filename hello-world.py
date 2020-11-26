@@ -316,4 +316,4 @@ if eleccionniño == "2":
             print("OBJETIVOS: ",objetivo2)
             print("TAREAS:\n",tareas2)
             print("")
-            print("Conseguirás tu objetivo en ", (int(objetivopuntos2)/3)*int(paga2), "días. "
+            print("Conseguirás tu objetivo en ", (int(objetivopuntos2)/3)*int(paga2), "días. ")
